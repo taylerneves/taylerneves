@@ -46,7 +46,7 @@ Sou o Tayler, um desenvolvedor apaixonado por tecnologia, do Brasil 🇧🇷
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=taylerneves&show_icons=true&theme=tokyonight&count_private=true" />
+  
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylerneves&layout=compact&theme=tokyonight" />
 </p>
 
