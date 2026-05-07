@@ -3,10 +3,11 @@
 Sou o Tayler, um desenvolvedor apaixonado por tecnologia, do Brasil 🇧🇷  
 
 - 💻 Tenho experiência com **HTML, CSS e JavaScript**  
+- ☕ Atualmente evoluindo no **backend com Java e Node.js**  
 - 📚 Já fiz cursos pelo **Bradesco**, **Curso em Vídeo (Gustavo Guanabara)** e **Rei dos Sites**  
 - 🌱 Estou sempre aprendendo e evoluindo na programação  
 - 🌍 Falo **português e inglês**  
-- 💬 Pode me perguntar sobre front-end ou tecnologia  
+- 💬 Pode me perguntar sobre front-end, backend ou tecnologia  
 - 📫 Como me encontrar: **taylernevespolletti@gmail.com**  
 - ❤️ Amo **matemática**  
 - ✈️ Meu sonho é **viajar o mundo inteiro**  
@@ -28,6 +29,8 @@ Sou o Tayler, um desenvolvedor apaixonado por tecnologia, do Brasil 🇧🇷
 - 💻 Desenvolvimento **front-end**
 - 🎨 Criação de interfaces com **HTML e CSS**
 - ⚡ Interatividade com **JavaScript**
+- ☕ Estudos e evolução no **backend com Java**
+- 🟢 Desenvolvimento backend com **Node.js**
 - 📚 Aprendizado contínuo em programação
 - 🎯 Foco em evolução e prática constante
 
@@ -41,13 +44,18 @@ Sou o Tayler, um desenvolvedor apaixonado por tecnologia, do Brasil 🇧🇷
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
----
+### Backend
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
 ## 📊 GitHub Stats
 
-<p align="left">
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylerneves&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=taylerneves&show_icons=true&theme=tokyonight" />
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taylerneves&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -59,5 +67,5 @@ Sou o Tayler, um desenvolvedor apaixonado por tecnologia, do Brasil 🇧🇷
 
 ---
 
-⭐ Se gostar meu perfil, considere dar uma estrela nos repositórios  
+⭐ Se curtir meu perfil, considere dar uma estrela nos repositórios  
 🤝 Sempre aberto a aprender, colaborar e trocar ideias
