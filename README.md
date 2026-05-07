@@ -6,10 +6,10 @@ Sou o Tayler, um desenvolvedor apaixonado por tecnologia, do Brasil 🇧🇷
 - ☕ Atualmente evoluindo no **backend com Java e Node.js**  
 - 📚 Já fiz cursos pelo **Bradesco**, **Curso em Vídeo (Gustavo Guanabara)** e **Rei dos Sites**  
 - 🌱 Estou sempre aprendendo e evoluindo na programação  
-- 🌍 Falo **português e inglês**  
+- 🌍 Falo **português, inglês** e **libras** 
 - 💬 Pode me perguntar sobre front-end, backend ou tecnologia  
 - 📫 Como me encontrar: **taylernevespolletti@gmail.com**  
-- ❤️ Amo **matemática**  
+- ❤️ Amo **matemática** e **física** 
 - ✈️ Meu sonho é **viajar o mundo inteiro**  
 
 ---
