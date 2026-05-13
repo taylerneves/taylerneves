@@ -4,12 +4,13 @@ Sou o Tayler, um desenvolvedor apaixonado por tecnologia, do Brasil 🇧🇷
 
 - 💻 Tenho experiência com **HTML, CSS e JavaScript**  
 - ☕ Atualmente evoluindo no **backend com Java e Node.js**  
+- 🐍 Iniciante em **Python**  
 - 📚 Já fiz cursos pelo **Bradesco**, **Curso em Vídeo (Gustavo Guanabara)** e **Rei dos Sites**  
 - 🌱 Estou sempre aprendendo e evoluindo na programação  
-- 🌍 Falo **português, inglês** e **libras** 
+- 🌍 Falo **português, inglês** e **libras**  
 - 💬 Pode me perguntar sobre front-end, backend ou tecnologia  
 - 📫 Como me encontrar: **taylernevespolletti@gmail.com**  
-- ❤️ Amo **matemática** e **física** 
+- ❤️ Amo **matemática** e **física**  
 - ✈️ Meu sonho é **viajar o mundo inteiro**  
 
 ---
@@ -31,6 +32,7 @@ Sou o Tayler, um desenvolvedor apaixonado por tecnologia, do Brasil 🇧🇷
 - ⚡ Interatividade com **JavaScript**
 - ☕ Estudos e evolução no **backend com Java**
 - 🟢 Desenvolvimento backend com **Node.js**
+- 🐍 Aprendendo **Python**
 - 📚 Aprendizado contínuo em programação
 - 🎯 Foco em evolução e prática constante
 
@@ -48,8 +50,10 @@ Sou o Tayler, um desenvolvedor apaixonado por tecnologia, do Brasil 🇧🇷
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
