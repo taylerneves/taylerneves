@@ -15,11 +15,10 @@ Sou o Tayler, um desenvolvedor apaixonado por tecnologia, do Brasil 🇧🇷
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Meu Site  
 
-<p align="left">
-  <a href="https://github.com/taylerneves">
-    <img src="https://img.shields.io/badge/GitHub-TAYLERNEVES-181717?style=for-the-badge&logo=github" />
+  <a href="https://taylerneves.github.io/Portif-lio-Programador-/">
+    <img src="https://img.shields.io/badge/Meu_Portfólio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -33,6 +32,7 @@ Sou o Tayler, um desenvolvedor apaixonado por tecnologia, do Brasil 🇧🇷
 - ☕ Estudos e evolução no **backend com Java**
 - 🟢 Desenvolvimento backend com **Node.js**
 - 🐍 Aprendendo **Python**
+- 🌐 Desenvolvimento de projetos pessoais e portfólios
 - 📚 Aprendizado contínuo em programação
 - 🎯 Foco em evolução e prática constante
 
@@ -43,7 +43,7 @@ Sou o Tayler, um desenvolvedor apaixonado por tecnologia, do Brasil 🇧🇷
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
 ### Backend
