@@ -16,11 +16,9 @@ Sou o Tayler, um desenvolvedor apaixonado por tecnologia, do Brasil 🇧🇷
 ---
 
 ## 🌐 Meu Site  
-
-  <a href="https://taylerneves.github.io/Portif-lio-Programador-/">
-    <img src="https://img.shields.io/badge/Meu_Portfólio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+<a href="https://taylerneves.github.io/Portif-lio-Programador-/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Meu_Portfólio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 ---
 
