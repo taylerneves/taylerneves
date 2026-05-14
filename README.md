@@ -14,27 +14,24 @@ Sou o Tayler, um desenvolvedor apaixonado por tecnologia, do Brasil 🇧🇷
 - ✈️ Meu sonho é **viajar o mundo inteiro**  
 
 ---
+## 🌐 Meu Site
 
-## 🌐 Meu Site  
-<a href="https://taylerneves.github.io/Portif-lio-Programador-/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Meu_Portfólio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
----
-
-## 🧠 O que eu faço
-
-- 💻 Desenvolvimento **front-end**
-- 🎨 Criação de interfaces com **HTML e CSS**
-- ⚡ Interatividade com **JavaScript**
-- ☕ Estudos e evolução no **backend com Java**
-- 🟢 Desenvolvimento backend com **Node.js**
-- 🐍 Aprendendo **Python**
-- 🌐 Desenvolvimento de projetos pessoais e portfólios
-- 📚 Aprendizado contínuo em programação
-- 🎯 Foco em evolução e prática constante
+<p align="left">
+  <a href="https://taylerneves.github.io/Portif-lio-Programador-/" target="_blank">
+    <img src="https://img.shields.io/badge/Meu_Portfólio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
+## 🚀 Atualmente focado em
+
+- 🌐 Construção de interfaces modernas e responsivas
+- 🎨 Desenvolvimento de páginas e experiências web
+- ⚡ Aprendizado contínuo em programação e lógica
+- ☕ Evolução no desenvolvimento backend
+- 🧠 Criação de projetos para prática e aperfeiçoamento
+- 📚 Explorando novas tecnologias e ferramentas
 
 ## 🛠️ Tecnologias
 
