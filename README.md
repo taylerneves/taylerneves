@@ -1,3 +1,8 @@
+## 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/taylerneves/taylerneves/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+</p>
 <h1 align="center">Olá, eu sou o Tayler 👋</h1>
 
 <p align="center">
@@ -34,43 +39,59 @@ Tenho interesse em desenvolvimento Front-end, Back-end, APIs, Banco de Dados e A
 
 # 🛠️ Tecnologias
 
-## 🎨 Front-end
+<table align="center">
+<tr>
 
-<p>
+<td align="center" width="25%">
+
+### 🎨 Front-end
+
 <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
 
----
+</td>
 
-## ⚙️ Back-end
+<td align="center" width="25%">
 
-<p>
+### ⚙️ Back-end
+
 <img src="https://skillicons.dev/icons?i=nodejs,java,python" />
-</p>
 
----
+</td>
 
-## 🗄️ Banco de Dados
+<td align="center" width="25%">
 
-<p>
+### 🗄️ Banco de Dados
+
 <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
 
----
+</td>
 
-## ☁️ Cloud & DevOps
+<td align="center" width="25%">
 
-<p>
+### ☁️ Cloud & DevOps
+
 <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
 
----
+</td>
 
-## 🛠️ Ferramentas
+</tr>
 
-<p>
+<tr>
+
+<td align="center" width="25%">
+
+### 🛠️ Ferramentas
+
 <img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
-</p>
+
+</td>
+
+<td></td>
+<td></td>
+<td></td>
+
+</tr>
+</table>
 
 ---
 
@@ -99,7 +120,6 @@ Tenho interesse em desenvolvimento Front-end, Back-end, APIs, Banco de Dados e A
 </a>
 </p>
 
-
 ---
 ## 📊 GitHub Stats
 
@@ -109,9 +129,6 @@ Tenho interesse em desenvolvimento Front-end, Back-end, APIs, Banco de Dados e A
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taylerneves&layout=compact&theme=tokyonight&cache_seconds=1"/>
 </p>
 
-<p align="center">
-  <img src="/github-metrics.svg" alt="GitHub Metrics">
-</p>
 
 ## 📫 Contato
 
