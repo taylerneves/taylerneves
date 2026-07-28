@@ -38,57 +38,35 @@ Tenho interesse em desenvolvimento Front-end, Back-end, APIs, Banco de Dados e A
 # 🛠️ Tecnologias
 
 <table align="center">
-<tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎨 Front-end</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Back-end</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,java,python,typescript" />
+    </td>
+    <td align="center" width="33%">
+      <h3>☁️ Cloud & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=git,github" />
+    </td>
+  </tr>
+  </table>
 
-<td align="center" width="25%">
-
-### 🎨 Front-end
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️ Back-end
-
-<img src="https://skillicons.dev/icons?i=nodejs,java,python" />
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️ Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</td>
-
-<td align="center" width="25%">
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="25%">
-
-### 🛠️ Ferramentas
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
-
-</td>
-
-<td></td>
-<td></td>
-<td></td>
-
-</tr>
+<table align="center">
+  <tr>
+        <tr>
+          <td align="center" width="50%">
+            <h3>🛠️ Ferramentas</h3>
+            <img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
+          </td>
+          <td align="center" width="50%">
+            <h3>🗄️ Banco de Dados</h3>
+            <img src="https://skillicons.dev/icons?i=mysql" />
+          </td>
+        </tr>
+    </td>
 </table>
 
 ---
