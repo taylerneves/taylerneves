@@ -39,6 +39,7 @@ Tenho interesse em desenvolvimento Front-end, Back-end, APIs, Banco de Dados e A
 
 <table align="center">
   <tr>
+    <tr>
     <td align="center" width="33%">
       <h3>🎨 Front-end</h3>
       <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -52,6 +53,7 @@ Tenho interesse em desenvolvimento Front-end, Back-end, APIs, Banco de Dados e A
       <img src="https://skillicons.dev/icons?i=git,github" />
     </td>
   </tr>
+    </td>
   </table>
 
 <table align="center">
