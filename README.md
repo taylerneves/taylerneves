@@ -101,16 +101,11 @@ Tenho interesse em desenvolvimento Front-end, Back-end, APIs, Banco de Dados e A
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=taylerneves&show_icons=true&theme=tokyonight"
-  />
+<p align="center"> <img width="450" src="https://github-stats-extended.vercel.app/api?username=taylerneves&show_icons=true&theme=tokyonight" /> </p>
 
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=taylerneves&layout=compact&theme=tokyonight"
-  />
-</p>
+<p align="center"> <img width="450" src="https://github-stats-extended.vercel.app/api/top-langs/?username=taylerneves&layout=compact&theme=tokyonight" /> </p>
 
+--- 
 ## 📫 Contato
 
 * ✉️ Email: **[taylernevespolletti@gmail.com](mailto:taylernevespolletti@gmail.com)**
