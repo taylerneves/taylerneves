@@ -79,6 +79,7 @@ Tenho interesse em desenvolvimento Front-end, Back-end, APIs, Banco de Dados e A
 - Curso em Vídeo — Gustavo Guanabara
 - Fundação Bradesco
 - Rei dos Sites
+- Curso.dev (Filipe deschamps)
 
 ---
 
