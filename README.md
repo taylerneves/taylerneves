@@ -93,11 +93,16 @@ Tenho interesse em desenvolvimento Front-end, Back-end, APIs, Banco de Dados e A
 
 # 🌐 Portfólio
 
-<p>
-<a href="https://taylerneves.github.io/Portif-lio-Programador-/">
-<img src="https://img.shields.io/badge/🌐_Meu_Portfólio-0A66C2?style=for-the-badge"/>
-</a>
+<p align="left">
+  <a href="https://taylerneves.github.io/Portif-lio-Programador-/">
+    <img src="https://img.shields.io/badge/Portfólio_de_Programação-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio de Programação"/>
+  </a>
+  
+  <a href="https://portifoliodesites.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio_de_Desenvolvimento_Web-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio de Desenvolvimento Web"/>
+  </a>
 </p>
+
 
 ---
 ## 📊 GitHub Stats
