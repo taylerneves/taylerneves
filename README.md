@@ -28,7 +28,11 @@ Tenho interesse em desenvolvimento Front-end, Back-end, APIs, Banco de Dados e A
 - 🌐 Desenvolvedor Front-end
 - ⚙️ Conhecimentos em Back-end
 - ☕ Estudando Java
+  💻 Estudando C++
 - 🐍 Aprendendo Python
+- 🐳 Conhecimentos em Docker
+- ☁️ Estudando Cloud Computing com AWS
+- 🔐 Estudando Segurança da Informação
 - 🌱 Sempre aprendendo novas tecnologias
 - 🧮 Apaixonado por Matemática e Física
 - 🌎 Sonho em trabalhar remotamente e conhecer o mundo
@@ -45,12 +49,12 @@ Tenho interesse em desenvolvimento Front-end, Back-end, APIs, Banco de Dados e A
       <img src="https://skillicons.dev/icons?i=html,css,js" />
     </td>
     <td align="center" width="33%">
-      <h3>⚙️ Back-end</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,java,python,typescript" />
-    </td>
+            <h3>🗄️ Banco de Dados</h3>
+            <img src="https://skillicons.dev/icons?i=mysql" />
+          </td>
     <td align="center" width="33%">
       <h3>☁️ Cloud & DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=git,github" />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
     </td>
   </tr>
     </td>
@@ -59,13 +63,13 @@ Tenho interesse em desenvolvimento Front-end, Back-end, APIs, Banco de Dados e A
 <table align="center">
   <tr>
         <tr>
-          <td align="center" width="50%">
+           <td align="center" width="60%">
+      <h3>⚙️ Back-end</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,java,python,cpp,typescript" />
+    </td>
+          <td align="center" width="40%">
             <h3>🛠️ Ferramentas</h3>
             <img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
-          </td>
-          <td align="center" width="50%">
-            <h3>🗄️ Banco de Dados</h3>
-            <img src="https://skillicons.dev/icons?i=mysql" />
           </td>
         </tr>
     </td>
@@ -75,11 +79,17 @@ Tenho interesse em desenvolvimento Front-end, Back-end, APIs, Banco de Dados e A
 
 # 🎓 Formação
 
-- 🎓 Sistemas de Informação
-- Curso em Vídeo — Gustavo Guanabara
-- Fundação Bradesco
-- Rei dos Sites
-- Curso.dev (Filipe deschamps)
+
+- 🎓 Sistemas de Informação (Superior)
+
+## Cursos
+
+- 💻 Curso de Programador Web — Instituto Federal do Rio Grande do Sul (IFRS)
+- ☁️ AWS Cloud Practitioner Essentials — Amazon Web Services
+- 🎬 Curso em Vídeo — Gustavo Guanabara
+- 🏦 Fundação Bradesco
+- 🌐 Rei dos Sites
+- 🚀 Curso.dev — Filipe Deschamps
 
 ---
 
